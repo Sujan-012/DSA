@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Sujan-012/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sujan-012/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Sujan-012/DSA/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Sujan-012/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Sujan-012/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Sujan-012/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujan-012/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/Sujan-012/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
